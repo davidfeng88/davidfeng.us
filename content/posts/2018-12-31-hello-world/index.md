@@ -1,7 +1,7 @@
 ---
 title: 'Hello World!'
 date: 2018-12-31T13:00:25-05:00
-tags: ['misc']
+tags: ['meta']
 ---
 
 Happy New Year!

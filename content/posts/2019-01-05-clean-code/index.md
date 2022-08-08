@@ -3,7 +3,7 @@ title: 'Clean Code in React'
 date: 2019-01-05T13:07:44-05:00
 aliases:
   - /posts/react/clean-code
-tags: ['React', 'clean-code', 'Bara']
+tags: ['React', 'clean code', 'Bara']
 ---
 
 I published this article on [codeburst/Medium](https://codeburst.io/clean-code-in-react-fe11372f331c) on 2018/01/28. It has received 12.6k views and 1.96k claps as of 2019/01/05.
