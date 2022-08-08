@@ -1,8 +1,7 @@
 ---
 title: 'Cart and Learn - Periodic Table, Water, and Petroleum'
-tags: ['misc']
 date: 2020-01-11T13:19:41-05:00
-tags: ['misc']
+tags: ['chemistry']
 ---
 
 The Moat engineering team has a cart-and-learn every Friday, where an engineer shares something work unrelated. In December I gave a presentation about chemistry (of course). Below is the slides, check it out!
