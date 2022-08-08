@@ -377,12 +377,12 @@ defaultContentLanguage = "en"
       Mix = false
     #  Comment config
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config
       [params.page.comment.disqus]
-        enable = true
+        enable = false
         # Disqus shortname to use Disqus in posts
-        shortname = "davidfeng-us"
+        shortname = ""
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
