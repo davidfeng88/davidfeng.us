@@ -53,4 +53,4 @@ tags: ['weekly', 'privacy', 'AdTech', 'English']
 
 ## Discuss on Twitter
 
-{{< twitter 1558973502669168640>}}
+{{< twitter 1558973502669168640 >}}
