@@ -74,3 +74,7 @@ Julia 的 blog 应该算是英文技术博客圈中的顶流了吧？下面两�
 最后来点轻松的吧。前几天在 reddit 上刷到[这个帖子](https://www.reddit.com/r/oddlysatisfying/comments/wcss34/remove_the_red_dot/)，我定睛一看这不就是我国传统艺能华容道么？搜了一下看到了下面这个解法。仔细看了下这两个解法还不完全一样 😳
 
 {{< youtube VX5Jon2YdXQ>}}
+
+## Discuss on Twitter
+
+{{< twitter 1561550639062257664 >}}
