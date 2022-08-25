@@ -5,21 +5,23 @@ date: 2022-01-11T22:30:52-05:00
 
 {{<figure src="./gefeng.jpg">}}
 
-Hello! My name is David Feng. I'm a software development manager at [Oracle Advertising](https://www.oracle.com/cx/advertising/) / [Moat Analytics](https://moat.com/). I use Python, JavaScript, and Golang for work.
+## Me in 30 Seconds
+
+Hello! My name is David Feng.
+
+- I'm a software engineer at Google.
+- I was a software development manager at Oracle.
+- I have a Ph.D. in chemistry.
+- I like reading in my free time.
+- Recently I'm trying to pick up writing again, starting with [weekly updates in Chinese](/zh-cn/tags/weekly).
+
+See [my LinkedIn profile](https://www.linkedin.com/in/gfeng/) for the whole work and education history.
 
 Email: david dot feng dot ge at gmail dot com
 
-## Education
-
-| Time      | Institute                                              | Program            |
-| --------- | ------------------------------------------------------ | ------------------ |
-| 2017      | [App Academy](https://www.appacademy.io/)              | Web Development    |
-| 2010-2015 | [The University of Chicago](https://www.uchicago.edu/) | Ph.D. in Chemistry |
-| 2006-2010 | [Peking University](http://english.pku.edu.cn/)        | B.S. in Chemistry  |
-
 ## Contributions to Open Source Projects
 
-Looks like I made PRs to almost all themes my website used before :joy:
+Looks like I made PRs to almost all themes my website used before 😂
 
 - [Fix typo (gotraining)](https://github.com/ardanlabs/gotraining/pull/281)
 - [Bug fix for google analytics (hermit)](https://github.com/Track3/hermit/pull/31)
