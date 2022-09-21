@@ -36,3 +36,7 @@ tags: ['weekly']
 最后来点稍微轻松的作为结尾吧。
 
 {{<youtube 64myS6bmNsM>}}
+
+## Discuss on Twitter
+
+{{< twitter 1572633111464382464 >}}
