@@ -33,7 +33,7 @@ Looks like I made PRs to almost all themes my website used before 😂
 
 ### Bara
 
-[Live](http://bara.davidfeng.us/#/)
+~~[Live](http://bara.davidfeng.us/#/)~~ [12/16/2022 Update](../2022-12-17-bara-update/)
 
 [Repo](https://github.com/davidfeng88/bara)
 
