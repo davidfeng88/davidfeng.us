@@ -35,7 +35,3 @@ tags: ['weekly', 'privacy', 'AdTech', 'English']
 从[朝花夕拾](https://pywonderland.com/envelope-and-caustics/)上看到的，Tadashi Tokieda 教授在 Numberphile 频道上的一个视频，时间不长，11 分钟，很好玩。废话不多说，直接看吧。
 
 {{< youtube MfzNJE4CK_s >}}
-
-## Discuss on Twitter
-
-{{< twitter 1556472227582955520 >}}
