@@ -1,7 +1,6 @@
 ---
 title: 'Bara Update'
 date: 2022-12-17T10:10:01-05:00
-draft: true
 tags: ['Bara']
 ---
 
