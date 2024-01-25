@@ -1,7 +1,7 @@
 ---
 title: '2022-08-07 周报01'
 date: 2022-08-04T22:44:22-04:00
-tags: ['weekly', 'privacy', 'AdTech', 'English']
+tags: ['weekly', 'privacy', 'AdTech', 'English', 'YouTube', 'Tadashi']
 ---
 
 尝试写下周报，先随便写写，想到哪儿就写到哪儿，也不强求有什么主题之类，之后再慢慢改进吧。如果觉得有收获的话可能会坚持下去。
