@@ -4,7 +4,7 @@ tags: ['clean code', 'CollisionViz', 'data visualization']
 date: 2020-03-28T13:21:40-05:00
 ---
 
-[CollisionViz](https://collisionviz.davidfeng.us/) is a data visualization app which shows car crashes in the New York City. I wrote it when I was at AppAcademy in 2017. Since then, I haven't spent a lot of time on it. Recently I found out that it stopped working. **Software is like cars - it needs maintainable.** In addition to fixing it, I gave it an [overhaul](https://github.com/davidfeng88/CollisionViz/compare/v1...v2). Below are some advice that I wise I knew when I first wrote CollisionViz, and hopefully it is applicable to other new programmers.
+[CollisionViz](https://collisionviz.davidfeng.us/) is a data visualization app which shows car crashes in the New York City. I wrote it when I was at AppAcademy in 2017. Since then, I haven't spent a lot of time on it. Recently I found out that it stopped working. **Software is like cars - it needs maintenance.** In addition to fixing it, I gave it an [overhaul](https://github.com/davidfeng88/CollisionViz/compare/v1...v2). Below are some advice that I wise I knew when I first wrote CollisionViz, and hopefully it is applicable to other new programmers.
 
 <!--truncate-->
 
