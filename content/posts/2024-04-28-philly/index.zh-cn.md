@@ -4,13 +4,13 @@ date: 2024-04-28T21:51:28-04:00
 tags: ['美国历史', '游记']
 ---
 
-书接[上回](../2024-04-10-sunrise/)，4 月初儿子放春假，便早早预定了去费城游玩的行程。可惜天公不作美，恰好几天都下大雨，我们打算去的[野生动物园](https://www.sixflags.com/wildsafariadventure)、[挖掘机游乐园](https://diggerlandusa.com/)都临时关门了。（准备趁春假开门大赚一笔的老板们估计更加痛心疾首！是不是可以买保险对冲一下风险？）不过幸运的是几个备用景点都意外地惊艳，值得记录一下。
+书接[上回](../2024-04-10-sunrise/)，4 月初儿子放春假，便早早预定了去费城游玩的行程。可惜天公不作美，恰好几天都下大雨，我们打算去的[野生动物园](https://www.sixflags.com/wildsafariadventure)、[挖掘机游乐园](https://diggerlandusa.com/)都临时关门了。（准备趁春假开门大赚一笔的老板们估计更加痛心疾首！是不是可以买保险对冲一下风险？）不过幸运的是几个临时转正的备选景点都意外地惊艳，值得记录一下。
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d778255.0632872384!2d-75.4653695498316!3d40.36321963951419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x89c693f22285f86f%3A0x6eb82d50e6dad1fb!2zVmFsbGV5IEZvcmdlIE5hdGlvbmFsIEhpc3RvcmljYWwgUGFyaywgTm9ydGggT3V0ZXIgTGluZSBEcml2ZSwg5pmu6bKB5aOr5Zu9546L5a6-5aSV5rOV5bC85Lqa5bee!3m2!1d40.0997055!2d-75.44611309999999!4m5!1s0x89c6c634865d9bd3%3A0x218fde05d3437478!2zRnJhbmtsaW4gSW5zdGl0dXRlLCBOb3J0aCAyMHRoIFN0cmVldCwg6LS55Z-O5a6-5aSV5rOV5bC85Lqa5bee!3m2!1d39.9582109!2d-75.17313469999999!4m5!1s0x89c6c974d58dd9a3%3A0x1fac48f4cacd0e5f!2zTGliZXJ0eSBCZWxsIENlbnRlciwgU291dGggSW5kZXBlbmRlbmNlIE1hbGwgV2VzdCwg6LS55Z-O5a6-5aSV5rOV5bC85Lqa5bee!3m2!1d39.9502495!2d-75.1500743!4m5!1s0x89c132873e7964cb%3A0x48a0684b94ea27c6!2zRGlnZ2VybGFuZCBVU0EsIFBpbmVkZ2UgRHJpdmUsIFdlc3QgQmVybGluLCDmlrDms73opb_lt54!3m2!1d39.8132175!2d-74.9224729!4m5!1s0x89c1649f87287815%3A0x1e344d5ded33b824!2zU2l4IEZsYWdzIFdpbGQgU2FmYXJpLCDmnbDlhYvpgIrmlrDms73opb_lt54!3m2!1d40.1307062!2d-74.4297927!4m5!1s0x89c2fdc8b5ac5ea1%3A0xc7d959fedd2cd578!2zR3JlYXQgRmFsbHMsIOW4leeJueajruaWsOazveilv-W3ng!3m2!1d40.9165711!2d-74.1816948!5e0!3m2!1szh-CN!2sus!4v1714358199144!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Valley Forge 福吉谷国家历史公园
 
-1777 年 12 月 19 日-1778 年 6 月 19 日，华盛顿的大陆军刚被英军击败，撤出费城。约一万两千名士兵进驻（encampment，对，就是最近美国高校学生抗议活动的那个词）郊外的福吉谷，使得福吉谷成为当时十三个殖民地的第四大“城市”。这半年福吉谷并未发生战斗，但大陆军要面对低温，疾病，以及缺衣少食。这个刮风下雨春寒料峭的天气，让我稍稍体会到了当年士兵们在这里的困难的万分之一。
+1777 年 12 月 19 日-1778 年 6 月 19 日，华盛顿的大陆军刚被英军击败，撤出费城。约一万两千名士兵进驻（encampment，对，就是最近美国高校学生抗议活动的那个词）郊外的福吉谷，使得福吉谷成为当时十三个殖民地的第四大“城市”。福吉谷被选是由于三个原因：1.离英军距离 18 英里，不太近，所以对方无法偷袭，也不太远，便于阻挡他们进入宾州腹地（当时国会已经迁到[约克 York](https://history.state.gov/departmenthistory/buildings/section6)）；2.此地两面临河，并且有山（名字很有趣，Mount Misery and Mount Joy，苦难山和欢乐山，[因为宾夕法尼亚州建立者威廉・佩恩在一座山迷路了，然后在另一座山又找到了方向](https://www.kophistory.org/mounts-of-valley-forge-misery-and-joy/)），地形易守难攻。这半年福吉谷并未发生战斗，但大陆军要面对低温，疾病，以及缺衣少食。这个刮风下雨春寒料峭的天气，让我稍稍体会到了当年士兵们在这里的困难的万分之一。
 
 大陆军克服困难，普鲁士军官（冯・斯图本）来训练士兵，法国人来出钱出装备，美洲原住民(Oneida)也来帮忙。许多历史学家认为现代美国陆军在福吉谷诞生。得道多助的故事一代代传颂下去。华盛顿指挥部附近有个铸铁厂（福吉谷因此得名），里面刻着：在这里铸造的不是武器，而是一个全新的国家。
 
