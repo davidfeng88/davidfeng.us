@@ -26,7 +26,7 @@ tags: ['weekly', 'privacy', 'AdTech', 'English']
 
 这周看到了下面这个例子也很有意思：
 
-{{< twitter 1557854354828566528>}}
+{{< twitter user="SteveCollinsSJ" id="1557854354828566528" >}}
 
 缅因州至少有以下地名与欧洲国家首都相同：
 
