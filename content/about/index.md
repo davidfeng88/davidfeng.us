@@ -9,11 +9,10 @@ date: 2022-01-11T22:30:52-05:00
 
 Hello! My name is David Feng.
 
-- I'm a software engineer at Google.
-- I was a software development manager at Oracle.
+- I'm a senior software engineer at Datadog.
+- Previously, I was a software engineer at Google, and a software development manager at Oracle.
 - I have a Ph.D. in chemistry.
 - I like reading in my free time.
-- Recently I'm trying to pick up writing again, starting with [weekly updates in Chinese](/zh-cn/tags/weekly).
 
 See [my LinkedIn profile](https://www.linkedin.com/in/gfeng/) for the whole work and education history.
 
