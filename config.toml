@@ -2,7 +2,7 @@ baseURL = "https://davidfeng.us/"
 title = "David Feng"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+theme = "DoIt"
 
 # language code
 languageCode = "en"
@@ -199,7 +199,7 @@ avatarURL = "/GeFengS.jpeg"
 #  title shown in home page (HTML format is supported)
 title = "David Feng"
 # subtitle shown in home page
-subtitle = "Software Engineer at Google"
+subtitle = "Senior Software Engineer at Datadog"
 # whether to use typeit animation for subtitle
 typeit = true
 # whether to show social links
@@ -296,8 +296,6 @@ lightgallery = false
 ruby = true
 #  whether to enable the fraction extended syntax
 fraction = true
-#  whether to enable the fontawesome extended syntax
-fontawesome = true
 # whether to show link to Raw Markdown content of the content
 linkToMarkdown = true
 #  whether to show the full text content in RSS
@@ -557,7 +555,7 @@ startLevel = 2
 endLevel = 6
 
 # Author config
-[author]
+[params.author]
 name = "David Feng"
 email = "david.feng.ge@gmail.com"
 link = ""
