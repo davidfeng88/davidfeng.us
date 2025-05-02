@@ -9,7 +9,7 @@ date: 2023-01-28T13:52:58-05:00
 
 北门（Northgate）庄园位于 Hudson Highlands State Park Preserve。在谷歌地图卫星图像中，残垣断壁几乎完全淹没在周围的森林里。
 
-{{<figure src="./Northgate-GoogleMap.png" title="谷歌地图卫星图像">}}
+{{<figure src="./Northgate-GoogleMap.jpg" title="谷歌地图卫星图像">}}
 
 这处庄园占地 650 英亩（作为对比，纽约中央公园占地 840 英亩），1910 年由芝加哥钻石商人 Sigmund Stern 建造，1917 年卖给了 Edward J. Cornish 夫妇。
 
@@ -31,7 +31,7 @@ date: 2023-01-28T13:52:58-05:00
 
 2009 年在医院南边开始兴建了富兰克林罗斯福“四大自由”公园。[四大自由](<https://www.wikiwand.com/zh/%E5%9B%9B%E5%A4%A7%E8%87%AA%E7%94%B1%20(%E7%BE%85%E6%96%AF%E7%A6%8F)>)是罗斯福在 1941 年 1 月提出的，包括言论自由、信仰自由、免于匮乏的自由、免于恐惧的自由。它总结了当时美国国内的民主价值观，打破了美国长期的“不干预政策”。11 个月后日本偷袭珍珠港，美国参战。
 
-{{<figure src="./UN.png" title="意外发现从罗斯福岛照联合国总部大楼效果不错">}}
+{{<figure src="./UN.jpg" title="意外发现从罗斯福岛照联合国总部大楼效果不错">}}
 
 ## 詹姆斯·克拉夫茨（James Crafts）的化学实验室
 
@@ -39,9 +39,9 @@ date: 2023-01-28T13:52:58-05:00
 
 Crafts 在 MIT 当了几年校长（1897-1900）后“退休”，来到此处继续他的科研生涯。这里是他的夏季“度假”屋，他还修了个化学实验室（咦大佬退休了还自己做实验，绝对是真正的学术热情了）。Crafts 去世后，房子几经转手，空置，最后跟北门一样，在一场大火（1979 年）中烧毁了。废墟现在位于 Leon Levy Preserve。
 
-{{<figure src="./black-mansion.png" title="豪宅烧毁前无人居住，当地人送外号Black Mansion">}}
+{{<figure src="./black-mansion.jpg" title="豪宅烧毁前无人居住，当地人送外号Black Mansion">}}
 
-{{<figure src="./lab-ruins.png" title="实验室废墟">}}
+{{<figure src="./lab-ruins.jpg" title="实验室废墟">}}
 
 ## 总结
 
