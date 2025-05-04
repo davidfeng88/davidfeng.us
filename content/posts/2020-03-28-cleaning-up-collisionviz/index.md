@@ -16,7 +16,7 @@ In v1, CollisionViz works like a video player - you click a "play" button and th
 
 However, when I showed this app to my friends and interviewers, literally none of them used it that way. Most of them just click on the Google Chart to change the time (without me telling them to). Thus in v2 I changed the app so it's more intuitive. **No matter how cool you think your app is, run the idea with someone else to validate it ASAP.** Removal of the play mechanism makes it possible to clean up the UI and simplify data storage. Here is the v2 UI:
 
-{{<figure src="./v2.png">}}
+{{<figure src="./v2.jpg">}}
 
 ## 2. Remove Non-essential Parts
 

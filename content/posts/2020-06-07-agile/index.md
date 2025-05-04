@@ -54,7 +54,7 @@ There are many companies to help businesses to implement Agile/Scrum (huge marke
 
 Here is a graph trying to describe SAFe ([their website](https://www.scaledagileframework.com/#) has an slightly updated version). They try to fit everything into a single graph and end up with this overwhelming thing.
 
-{{<figure src="./SAFe.png">}}
+{{<figure src="./SAFe.jpg">}}
 
 I'm not a fan that many words are used to refer to similar things, and I found out things are much simpler if I look at this graph through a fractal/recursion lense.
 

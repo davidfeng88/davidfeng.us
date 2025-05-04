@@ -44,6 +44,6 @@ The content did not really change. The biggest change is the usage of Bootstrap,
 
 [Live](https://davidfeng88.github.io/Personal-Site-Archive/2017/index.html)
 
-{{<figure src="./2017.png">}}
+{{<figure src="./2017.jpg">}}
 
 I built this site during the job search curriculum at AppAcademy. The content is brand new since I'm trying to get hired as a software developer, not as a research chemist. It contains only one page. I used [the prologue template from HTML5UP](https://html5up.net/prologue), and I edited the HTML and CSS files directly.
