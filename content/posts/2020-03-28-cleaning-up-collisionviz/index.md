@@ -12,7 +12,10 @@ date: 2020-03-28T13:21:40-05:00
 
 In v1, CollisionViz works like a video player - you click a "play" button and the car crashes appear on the map in the order of crash time. You can also pause the animation, adjust the play speed, etc.
 
-{{<figure src="./v1.gif">}}
+<video autoplay loop muted playsinline width="640" height="360">
+    <source src="/videos/collisionviz-v1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 However, when I showed this app to my friends and interviewers, literally none of them used it that way. Most of them just click on the Google Chart to change the time (without me telling them to). Thus in v2 I changed the app so it's more intuitive. **No matter how cool you think your app is, run the idea with someone else to validate it ASAP.** Removal of the play mechanism makes it possible to clean up the UI and simplify data storage. Here is the v2 UI:
 
