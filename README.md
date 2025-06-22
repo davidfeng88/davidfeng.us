@@ -23,4 +23,4 @@ See https://logseq-public.pages.dev/#/page/hugo for more.
   3. Add `images: ['foo.jpg']` in front matter for Twitter Cards.
 3. Add tags, e.g. `admin`, `travel`, `trip`, `reading`.
 4. Preview by `hugo server` and revise.
-5. Translate to English with Claude. Add `(Translated from the Chinese version with the help of Claude.)`
+5. Translate to English with Claude. Add `(Translated from the Chinese version with the help of Claude.)` and proofread.
