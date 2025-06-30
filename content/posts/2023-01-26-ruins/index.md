@@ -1,6 +1,7 @@
 ---
 title: 'Journey Through Ruins'
 date: 2023-01-28T13:52:58-05:00
+tags: ['travel', 'NY', 'NYC']
 ---
 
 (Translated from the Chinese version with the help of Claude.)

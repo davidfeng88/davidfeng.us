@@ -1,7 +1,7 @@
 ---
 title: "The Story of Dingwang Tower in Changsha"
 date: 2025-05-10T22:05:30-04:00
-tags: ['changsha']
+tags: ['Changsha', 'Hunan', 'Chinese history']
 ---
 
 (Translated from the Chinese version with the help of Claude.)

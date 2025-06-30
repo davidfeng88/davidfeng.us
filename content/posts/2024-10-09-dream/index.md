@@ -1,7 +1,7 @@
 ---
 title: "A Unusual Day"
 date: 2024-10-09T21:22:38-04:00
-tags: ['dream', 'reading']
+tags: ['dream']
 ---
 
 (Translated from the Chinese version with the help of Claude.)

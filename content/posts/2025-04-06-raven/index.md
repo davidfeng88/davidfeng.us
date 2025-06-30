@@ -1,7 +1,7 @@
 ---
 title: "Sunday Visit to Greenburgh Nature Center"
 date: 2025-04-06T22:02:03-04:00
-tags: ['nature', 'trip', 'raven']
+tags: ['nature', 'travel', 'raven', 'NY']
 ---
 
 (Translated from the Chinese version with the help of Claude.)

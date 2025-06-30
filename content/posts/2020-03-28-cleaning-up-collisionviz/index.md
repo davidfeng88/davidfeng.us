@@ -1,6 +1,6 @@
 ---
 title: 'Cleaning up CollisionViz - advice to new programmers'
-tags: ['clean code', 'CollisionViz', 'data visualization']
+tags: ['clean code', 'CollisionViz', 'data visualization', 'frontend', 'tech']
 date: 2020-03-28T13:21:40-05:00
 ---
 

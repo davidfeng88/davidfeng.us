@@ -1,7 +1,7 @@
 ---
 date: 2020-06-07T13:33:57-05:00
 title: 'What is agile (for a software developer)?'
-tags: ['agile']
+tags: ['agile', 'tech', 'software development']
 ---
 
 (Adapted from an internal talk)

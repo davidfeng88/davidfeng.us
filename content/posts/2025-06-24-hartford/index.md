@@ -2,7 +2,7 @@
 title: "A Half-Day Trip to Hartford"
 date: 2025-06-24T21:21:26-04:00
 images: ["state-capitol-1.jpg"]
-tags: ["Hartford", "Connecticut", "Travel"]
+tags: ["Hartford", "CT", "Travel"]
 ---
 
 (Translated from the Chinese version with the help of Claude.)

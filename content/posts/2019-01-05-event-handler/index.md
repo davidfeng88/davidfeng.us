@@ -1,6 +1,6 @@
 ---
 title: 'React Component Event Handlers'
-tags: ['React']
+tags: ['React', 'tech', 'frontend']
 date: 2019-01-05T12:11:48-05:00
 aliases:
   - /posts/react/event-handler

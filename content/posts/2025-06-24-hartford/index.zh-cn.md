@@ -36,7 +36,7 @@ tags: ["哈特福德", "康涅狄格州", "游记"]
 
 {{<figure src="./justice-back.jpg" title="从后面看右手还拿了把剑">}}
 
-栏杆里面发现一个雕像，背对着我们，一看侧面写着“他率领民众穿越荒野，在1636年6月创建了哈特福德城。”（Leading his people through the wilderness, he founded Hartford in June 1636.）赶紧拍照留念。回来一查，托马斯·胡克，由于与麻萨诸塞殖民地的清教徒领袖意见不合，率领支持者离开，建立了哈特福德和康涅狄格。Respect。
+栏杆里面发现一个雕像，背对着我们，一看侧面写着“他率领民众穿越荒野，在1636年6月创建了哈特福德城。”（Leading his people through the wilderness, he founded Hartford in June 1636.）赶紧拍照留念。回来一查，托马斯·胡克，由于与麻萨诸塞殖民地的清教徒领袖意见不合，率领支持者离开，建立了哈特福德城和康涅狄格殖民地。Respect。
 
 {{<figure src="./thomas-hooke.jpg" title="托马斯·胡克">}}
 
@@ -76,6 +76,6 @@ Soldiers and Sailors Memorial Arch，纪念美国南北战争（1861-1865）中�
 
 ## 结尾
 
-随意半日游，回来网上一查，竟牵扯出这么多人和事。意外地深度游了。历史悠久，有的故事稍显沉重。结尾来点轻松的，Bushnell公园的最大亮点是一个1914年建的旋转木马，已经一百多年了，一直在给孩子们带来欢乐。
+随意半日游，回来网上一查，竟牵扯出这么多人和事。意外地深度游了。（感觉写游记的时间超过了游玩本身的时间……）历史悠久，有的故事稍显沉重。结尾来点轻松的，Bushnell公园的最大亮点是一个1914年建的旋转木马，已经一百多年了，一直在给孩子们带来欢乐。
 
 {{<figure src="./carousel.jpg" title="旋转木马">}}

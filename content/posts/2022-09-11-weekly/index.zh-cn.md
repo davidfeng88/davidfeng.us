@@ -1,7 +1,7 @@
 ---
 title: '2022-09-04 周报06'
 date: 2022-09-09T09:00:29-04:00
-tags: ['weekly']
+tags: ['周报']
 ---
 
 ## Rory Sutherland - Perspective is everything

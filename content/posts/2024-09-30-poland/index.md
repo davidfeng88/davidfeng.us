@@ -1,7 +1,7 @@
 ---
 title: "As Long as We Live, Poland Will Not Perish!"
 date: 2024-10-03T21:39:03-04:00
-tags: ['Poland', 'national anthem', 'reading']
+tags: ['Poland', 'national anthem']
 ---
 
 (Translated from the Chinese version with the help of Claude.)

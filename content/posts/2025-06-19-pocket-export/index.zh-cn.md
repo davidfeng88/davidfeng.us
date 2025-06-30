@@ -2,7 +2,7 @@
 title: "天塌了！稍后读应用Pocket要关门了！"
 date: 2025-06-19T22:28:43-04:00
 images: ['evolution.png']
-tags: ['Pocket', '英语写作', '职业']
+tags: ['Pocket', '英语写作', '职业发展']
 ---
 
 （跟上一篇博客一样，这篇又是怀旧向的。）
