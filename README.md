@@ -22,11 +22,12 @@ See https://logseq-public.pages.dev/#/page/hugo for more.
   2. Prefer the `figure` shortcode over markdown syntax (`![](./foo.jpg)`). (`figure` can have title and also auto centers)
   3. Add `images: ['foo.jpg']` in front matter for Twitter Cards.
 3. Add tags, e.g. `admin`, `travel`, `trip`, `reading`.
-  1. If the blog is a travel log, add `travel/游记`, country/state/city.
+  1. If the blog is a travel log, add `travel/游记`, country/state/city. Consider adding a Google Map overview of route. (see http://localhost:1313/zh-cn/2024-04-28-philly/ for example).
   2. Consider add the theme, like `math/history/career/职业发展/chemistry`.
   3. Add `meta` for admin posts.
   4. Add `tech/frontend` etc. for technical posts.
-  5. Add `book-review/读书笔记` for book reviews.
+  5. Add `reading/读书笔记` for book reviews.
+  6. Check existing tags for more ([en](https://davidfeng.us/tags/), [cn](https://davidfeng.us/zh-cn/tags/))
 4. Preview by `hugo server` and revise.
 5. Translate to English with Claude. Add `(Translated from the Chinese version with the help of Claude.)` and proofread.
   - for reasons unknown to me, if the post contains images, they won't show up properly in the Chinese version if the English version does not exist.
