@@ -2,7 +2,7 @@
 title: "哈特福德半日游"
 date: 2025-06-24T21:21:26-04:00
 images: ["state-capitol-1.jpg"]
-tags: ["哈特福德", "康涅狄格州", "游记"]
+tags: ["哈特福德", "康涅狄格州", "游记", "历史", "美国历史"]
 ---
 
 上周末到康涅狄格州首府哈特福德来了个半日游，看图说话流水账记录一下。
@@ -51,6 +51,10 @@ tags: ["哈特福德", "康涅狄格州", "游记"]
 43年后的1824年，拉法耶特侯爵再次[访问](https://en.wikipedia.org/wiki/Visit_of_the_Marquis_de_Lafayette_to_the_United_States)美国，行程包括了当时所有的24个州。9月4日，他回到了哈特福德，并在此处与康涅狄格州州长见面。
 
 {{<figure src="./lafayette.jpg" title="拉法耶特侯爵再次访问哈特福德">}}
+
+重走拉法耶特侯爵访美路线，哈特福德这一站的官方视频：
+
+{{<youtube NTf8A7UpwkY>}}
 
 ## 布什内尔公园（Bushnell Park）
 

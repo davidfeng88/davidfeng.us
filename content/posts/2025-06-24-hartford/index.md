@@ -2,7 +2,7 @@
 title: "A Half-Day Trip to Hartford"
 date: 2025-06-24T21:21:26-04:00
 images: ["state-capitol-1.jpg"]
-tags: ["Hartford", "CT", "Travel"]
+tags: ["Hartford", "CT", "Travel", "History", "American History"]
 ---
 
 (Translated from the Chinese version with the help of Claude.)
@@ -52,6 +52,10 @@ Going back in the timeline, in July 1780, French forces arrived at Newport, Rhod
 43 years later in 1824, the Marquis de Lafayette [visited](https://en.wikipedia.org/wiki/Visit_of_the_Marquis_de_Lafayette_to_the_United_States) America again, touring all 24 states at the time. On September 4, he returned to Hartford and met with the Governor of Connecticut at this location.
 
 {{<figure src="./lafayette.jpg" title="Marquis de Lafayette's return visit to Hartford">}}
+
+Here is the video for the Hartford stop from The Lafayette Trail:
+
+{{<youtube NTf8A7UpwkY>}}
 
 ## Bushnell Park
 
