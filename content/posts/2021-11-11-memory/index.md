@@ -2,7 +2,7 @@
 date: 2021-11-11T13:43:30-05:00
 title: 'Cassette Tapes, Linkin Park, Chicago'
 images: ['cassettetape.jpg']
-tags: ['Chicago', 'IL', 'Music']
+tags: ['Chicago', 'IL', 'Music', 'Random thoughts']
 ---
 
 (Translated from the Chinese version with the help of Claude.)
