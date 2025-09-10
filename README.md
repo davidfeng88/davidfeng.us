@@ -22,7 +22,7 @@ See https://logseq-public.pages.dev/#/page/hugo for more.
   2. Prefer the `figure` shortcode over markdown syntax (`![](./foo.jpg)`). (`figure` can have title and also auto centers)
   3. Add `images: ['foo.jpg']` in front matter for Twitter Cards.
 3. Add tags, e.g. `admin`, `travel`, `trip`, `reading`.
-  1. If the blog is a travel log, add `travel/游记`, country/state/city. Consider adding a Google Map overview of route. (see http://localhost:1313/zh-cn/2024-04-28-philly/ for example).
+  1. If the blog is a travel log, add `travel/游记`, country/state/city. Consider adding a Google Map overview of route. Get the route from Google Maps, then click details => share => embed map. See http://localhost:1313/zh-cn/2024-04-28-philly/ for example.
   2. Consider add the theme, like `math/history/career/职业发展/chemistry`.
   3. Add `meta` for admin posts.
   4. Add `tech/frontend` etc. for technical posts.
