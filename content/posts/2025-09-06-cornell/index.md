@@ -25,7 +25,7 @@ Following the official tour guide, I first visited the Martin Y. Tang Welcome Ce
 
 #### Ezra Cornell
 
-{{<figure src="ezra.jpg" title="Ezra Cornell">}}
+{{<figure src="ezra.jpg" title="Ezra Cornell (Am I the only one who thinks Ezra looks like Lincoln in this picture?)">}}
 
 Ezra was born in New York City in 1807 and worked as a carpenter and mechanic in his early years. He later entered the telegraph industry, working as an assistant to Samuel Morse (yes, the Morse of Morse code). He eventually struck out on his own, building his business until he founded Western Union. You can imagine the telegraph industry then was like personal computers, mobile internet, and AI today - the cutting-edge technology creating wealth legends.
 

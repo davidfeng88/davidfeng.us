@@ -13,9 +13,13 @@ Continuing from the [previous post](../2024-04-10-sunrise/), my son had spring b
 
 ## Valley Forge National Historical Park
 
-From December 19, 1777 to June 19, 1778, Washington's Continental Army, having just been defeated by British forces, withdrew from Philadelphia. About twelve thousand soldiers established an encampment (yes, the same word used in recent American college student protests) in the suburban Valley Forge, making it the fourth largest "city" in the thirteen colonies at the time. Valley Forge was chosen for three reasons: 1. It was 18 miles from the British forces - not too close to risk surprise attacks, but not too far to prevent blocking their advance into Pennsylvania's interior (Congress had already moved to [York](https://history.state.gov/departmenthistory/buildings/section6)); 2. The location was flanked by rivers and had mountains (with amusing names: Mount Misery and Mount Joy, [because Pennsylvania's founder William Penn got lost on one mountain and then found his way on the other](https://www.kophistory.org/mounts-of-valley-forge-misery-and-joy/)), providing easily defensible terrain. During these six months, Valley Forge saw no battles, but the Continental Army faced freezing temperatures, disease, and shortages of clothing and food. The windy, rainy, and chilly spring weather gave me a tiny taste of what those soldiers endured here.
+From December 19, 1777 to June 19, 1778, Washington's Continental Army, having just been defeated by British forces, withdrew from Philadelphia. About twelve thousand soldiers established an encampment (yes, the same word used in recent American college student protests) in the suburban Valley Forge, making it the fourth largest "city" in the thirteen colonies at the time. Valley Forge was chosen for three reasons: 1. It was 18 miles from the British forces - not too close to risk surprise attacks, but not too far to prevent blocking their advance into Pennsylvania's interior (Congress had already moved to [York](https://history.state.gov/departmenthistory/buildings/section6)); 2. The location was flanked by rivers and had mountains (with amusing names: Mount Misery and Mount Joy, [because Pennsylvania's founder William Penn got lost on one mountain and then found his way on the other](https://www.kophistory.org/mounts-of-valley-forge-misery-and-joy/)), providing easily defensible terrain. During these six months, Valley Forge saw no battles, but the Continental Army faced freezing temperatures, disease (almost two thousand people died[^morristown]), and shortages of clothing and food. The windy, rainy, and chilly spring weather gave me a tiny taste of what those soldiers endured here. In May, the alliance with France was secured. The British soon evacuated Philadelphia and headed north to defend their stronghold in New York City. In June, Washington's troops marched out Valley Forge.
 
 The Continental Army overcame these difficulties with help from Prussian officers (von Steuben) who came to train soldiers, French supporters who provided money and equipment, and Native Americans (Oneida) who also assisted. Many historians believe the modern U.S. Army was born at Valley Forge. This story of righteousness prevailing continues to be told through generations. Near Washington's headquarters stands an iron forge (which gave Valley Forge its name), with an inscription: "What was forged here was not weapons, but a new nation."
+
+When the Continental Army departed, the soil was severely spoiled and could not be cultivated in the summer of 1778, but it recovered the following year. After the war, Washington returned to Valley Forge in 1787, and he was pleased to see the valley once again filled with crops. In 1917, the Valley Forge National Memorial Arch was completed.
+
+{{<figure src="arch.jpg" title="National Memorial Arch">}}
 
 However, another official park video reveals different voices: most Native Americans allied with the British; after the war, the American government broke many agreements with Native American tribes, refusing to pay compensation or provide promised land; the army included many Black people - some free, some enslaved who joined for promises of future freedom, and others forced to serve in place of their masters - yet many Black soldiers were re-enslaved by both British and American governments after the war. The struggles for freedom and equality by women, Black people, and Native Americans would continue after the war.
 
@@ -25,13 +29,9 @@ The video below explains the situation of local farmers in Valley Forge (if you 
 
 {{<youtube -LdTLZnUzNk>}}
 
-The soldiers built a thousand log huts:
+{{<figure src="./log-huts.jpg" title="The soldiers built fifteen hundred log huts">}}
 
-{{<figure src="./log-huts.jpg">}}
-
-Each hut housed more than ten people:
-
-{{<figure src="./log-huts-inside.jpg">}}
+{{<figure src="./log-huts-inside.jpg" title="Each hut housed more than ten people">}}
 
 The stair railing at Washington's headquarters is original - I touched the same wood as Washington! 😂
 
@@ -59,3 +59,5 @@ In 1778 (yes, while Washington was still at Valley Forge), Hamilton came here to
 
 - [Valley Forge National Park Official Video](https://www.youtube.com/watch?v=uXIIvjCd-Pk)
 - [Background Knowledge of the American Revolutionary War](https://logseq-public.pages.dev/#/page/%E7%BE%8E%E5%9B%BD%E7%8B%AC%E7%AB%8B%E6%88%98%E4%BA%89)
+
+[^morristown]: In comparison, Washington twice led the Continental Army through winters in Morristown (1776-1777, 1779-1780). The second winter was known as the "Hard Winter," which was colder than the winter at Valley Forge, but resulted in "only" around one hundred deaths.
