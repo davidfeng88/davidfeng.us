@@ -19,6 +19,8 @@ images: ["first-wave.jpg"]
 
 {{<youtube JVCajJufJ7s>}}
 
+{{<figure src="topographic.jpg" title="从地形图可以看出，手指湖南边的阿勒格尼高原呈现出复杂的丘陵山谷地貌，而手指湖地区和北边的地貌则完全被冰川抹平。">}}
+
 ## 塞内卡福尔斯女权大会
 
 扯远了，回到女权大会上来。先看看当时的时代大背景。

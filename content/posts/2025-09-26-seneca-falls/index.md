@@ -21,6 +21,8 @@ The video below explains how these lakes formed. In short, about 400 million yea
 
 {{<youtube JVCajJufJ7s>}}
 
+{{<figure src="topographic.jpg" title="Tthe topographic map shows that the Allegheny Plateau south of the Finger Lakes presents a complex landscape of hills and valleys, while the landscape in the Finger Lakes region and to the north has been completely obliterated by the glacial sculpting.">}}
+
 ## The Seneca Falls Women’s Rights Convention
 
 Now, back to the women’s rights convention — but first, some historical background.
