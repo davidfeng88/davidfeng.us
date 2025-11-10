@@ -7,7 +7,12 @@ images: ["first-wave.jpg"]
 
 (Translated from the Chinese version with the help of ChatGPT.)
 
-Picking up [from last time](../2025-09-06-cornell/): after leaving the Cornell campus, we drove north for about an hour along the west side of Cayuga Lake and arrived at Seneca Falls.
+Other posts in this series:
+
+* [First Stop — Cornell University](../2025-09-06-cornell/)
+* [Final Stop — Niagara Falls](../2025-10-31-niagara-falls/)
+
+After leaving the Cornell campus, we drove north for about an hour along the west side of Cayuga Lake and arrived at Seneca Falls.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d375308.65145018545!2d-76.97490092570203!3d42.70162788065682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x89d0821a6191da9d%3A0xf50ee64d821b9ff4!2zQ29ybmVsbCBVbml2ZXJzaXR5LCDkvIrokKjljaHnur3nuqY!3m2!1d42.4534492!2d-76.4735027!4m5!1s0x89d0b7d23a0cd2ff%3A0xcb581d4d7a86ff3f!2z5aaH5aWz5p2D5Yip5Zu95a625Y6G5Y-y5YWs5ZutMTM2IEZhbGwgU3QsIFNlbmVjYSBGYWxscywgTlkgMTMxNDg!3m2!1d42.9107583!2d-76.799964!5e0!3m2!1szh-CN!2sus!4v1759711522217!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

@@ -7,6 +7,11 @@ tags: ["Cornell University", "NY", "Travel"]
 
 (Translated from the Chinese version with the help of Claude.)
 
+Other posts in this series:
+
+* [Second Stop — Women’s Rights National Historical Park, Seneca Falls](../2025-09-26-seneca-falls/)
+* [Final Stop — Niagara Falls](../2025-10-31-niagara-falls/)
+
 ## Preface
 
 I planned a summer trip, but I had already visited nearby cities like [New York City]({{< relref "tags/nyc" >}}), Boston, [Philadelphia](../2024-04-28-philly/), and Washington. Where to go next? Looking at the map, I decided on Niagara Falls near the US-Canada border! Along the way, I could visit Cornell University. After consulting Claude, I also discovered the Women's Rights National Historical Park in Seneca Falls was on the route. Let's go!
