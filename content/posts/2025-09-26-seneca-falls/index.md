@@ -1,5 +1,5 @@
 ---
-title: "Upstate New York Trip Part II — Women’s Rights National Historical Park"
+title: "Upstate New York Trip Part 2 — Women’s Rights National Historical Park"
 date: 2025-09-26T20:51:37-04:00
 tags: ["Seneca Falls", "Women’s Rights National Historical Park", "NY", "Travel"]
 images: ["first-wave.jpg"]
@@ -9,8 +9,8 @@ images: ["first-wave.jpg"]
 
 Other posts in this series:
 
-* [First Stop — Cornell University](../2025-09-06-cornell/)
-* [Final Stop — Niagara Falls](../2025-10-31-niagara-falls/)
+* [Part 1 — Cornell University](../2025-09-06-cornell/)
+* [Part 3 — Niagara Falls](../2025-10-31-niagara-falls/)
 
 After leaving the Cornell campus, we drove north for about an hour along the west side of Cayuga Lake and arrived at Seneca Falls.
 

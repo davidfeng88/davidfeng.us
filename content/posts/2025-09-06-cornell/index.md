@@ -1,5 +1,5 @@
 ---
-title: "Upstate New York Trip Part I - Cornell University"
+title: "Upstate New York Trip Part 1 - Cornell University"
 date: 2025-09-06T10:02:30-04:00
 images: ["statue.jpg"]
 tags: ["Cornell University", "NY", "Travel"]
@@ -9,8 +9,8 @@ tags: ["Cornell University", "NY", "Travel"]
 
 Other posts in this series:
 
-* [Second Stop — Women’s Rights National Historical Park, Seneca Falls](../2025-09-26-seneca-falls/)
-* [Final Stop — Niagara Falls](../2025-10-31-niagara-falls/)
+* [Part 2 — Women’s Rights National Historical Park, Seneca Falls](../2025-09-26-seneca-falls/)
+* [Part 3 — Niagara Falls](../2025-10-31-niagara-falls/)
 
 ## Preface
 

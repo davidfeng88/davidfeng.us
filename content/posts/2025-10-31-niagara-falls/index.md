@@ -1,5 +1,5 @@
 ---
-title: "Upstate New York Trip Part III — Niagara Falls"
+title: "Upstate New York Trip Part 3 — Niagara Falls"
 date: 2025-10-31T21:39:42-04:00
 tags: ["Niagara Falls", "NY", "Travel"]
 images: ["falls.jpg"]
@@ -11,8 +11,8 @@ At last, we arrived at the final stop of this trip — Niagara Falls.
 
 Other posts in this series:
 
-* [First Stop — Cornell University](../2025-09-06-cornell/)
-* [Second Stop — Women’s Rights National Historical Park, Seneca Falls](../2025-09-26-seneca-falls/)
+* [Part 1 — Cornell University](../2025-09-06-cornell/)
+* [Part 2 — Women’s Rights National Historical Park, Seneca Falls](../2025-09-26-seneca-falls/)
 
 Early in the morning, we drove from our hotel toward the Falls. Several kilometers away, we could already see a massive column of mist spiraling upward from the direction of the falls, accompanied by the faint roar of water — the atmosphere was perfectly set. We arrived around 10 a.m. Though it was a weekend, we were still early enough to find a few empty spots in Parking Lot 1 (P1 on the map), closest to the Visitor Center.
 
