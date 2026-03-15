@@ -40,18 +40,15 @@ images: ["bach.jpg"]
 
 ## BWV 208-9
 
-说了这么多，还是开始听吧。BWV 208 Was mir behagt, ist nur die muntre Jagd / The lively hunt is all my heart's desire / 唯有愉快的狩猎最让我开心，俗称 Hunting Cantata / 狩猎康塔塔，是巴赫现存最早的世俗康塔塔，创作于魏玛时期的1713年，是巴赫的老板魏玛公爵送给喜欢打猎的邻国公爵的生日礼物。最有名的是第九乐章女高音咏叹调：Schafe können sicher weiden (Sheep May Safely Graze，羊群可以安心吃草)。旋律优美，两支长笛与弦乐描绘出美丽祥和的田园风情。歌词由魏玛宫廷诗人所作，将良好的治理与狩猎/放牧作类比，其实就是一篇马屁文章。巴赫大概对此作品很满意，后面多次回收给其他王公贵族祝寿，改个名字就行，哈哈！不过话说回来，这么优秀的作品，只给一个人过生日演出一次，没有录音录像，确实很浪费，回收我是支持的。
+说了这么多，还是开始听吧。BWV 208 Was mir behagt, ist nur die muntre Jagd / The lively hunt is all my heart's desire / 唯有愉快的狩猎最让我开心，俗称 Hunting Cantata / 狩猎康塔塔，是巴赫现存最早的世俗康塔塔，创作于魏玛时期的1713年，是巴赫的老板魏玛公爵送给喜欢打猎的邻国公爵的生日礼物。最有名的是第九乐章女高音咏叹调：Schafe können sicher weiden / Sheep May Safely Graze / 羊群可以安心吃草。旋律优美，两支长笛与弦乐描绘出美丽祥和的田园风情。歌词由魏玛宫廷诗人所作，将良好的治理与狩猎/放牧作类比，其实就是一篇马屁文章。巴赫大概对此作品很满意，后面多次回收给其他王公贵族祝寿，改个名字就行，哈哈！不过话说回来，这么优秀的作品，只给一个人过生日演出一次，没有录音录像，确实很浪费，回收我是支持的。
 
 ### 歌词（德语/英语）
 
-Schafe können sicher weiden / Sheep can safely graze
+Schafe können sicher weiden / Sheep can safely graze  
+Wo ein guter Hirte wacht. / where a good shepherd watches over them.  
 
-Wo ein guter Hirte wacht. / where a good shepherd watches over them.
-
-Wo Regenten wohl regieren / Where rulers are ruling well,
-
-Kann man Ruh' und Friede spüren / we may feel peace and rest
-
+Wo Regenten wohl regieren / Where rulers are ruling well,  
+Kann man Ruh' und Friede spüren / we may feel peace and rest  
 Und was Länder glücklich macht. / and what makes countries happy.
 
 ### 原版
@@ -70,13 +67,13 @@ BWV 147 是一部宗教康塔塔，Herz und Mund und Tat und Leben / Heart and m
 
 ### 歌词（德语/英语）
 
-Jesus bleibet meine Freude, / Jesus remains my joy,
-Meines Herzens Trost und Saft, / My heart's comfort and strength,
-Jesus wehret allem Leide, / Jesus protects against all suffering,
-Er ist meines Lebens Kraft, / He is the strength of my life,
-Meiner Augen Lust und Sonne, / My eyes' joy and sun,
-Meiner Seele Schatz und Wonne; / My soul's treasure and delight;
-Darum laß ich Jesum nicht / Therefore I will not let Jesus
+Jesus bleibet meine Freude, / Jesus remains my joy,  
+Meines Herzens Trost und Saft, / My heart's comfort and strength,  
+Jesus wehret allem Leide, / Jesus protects against all suffering,  
+Er ist meines Lebens Kraft, / He is the strength of my life,  
+Meiner Augen Lust und Sonne, / My eyes' joy and sun,  
+Meiner Seele Schatz und Wonne; / My soul's treasure and delight;  
+Darum laß ich Jesum nicht / Therefore I will not let Jesus  
 Aus dem Herzen und Gesicht. / Out of my heart and my sight.
 
 ### 原版
