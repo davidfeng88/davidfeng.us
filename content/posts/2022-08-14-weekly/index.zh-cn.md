@@ -22,11 +22,9 @@ tags: ['周报', '隐私', 'AdTech', '英语']
 
 ## 没有创意的美国地名
 
-美国的很多地名都没有什么创意，重名的很多。维基百科上有个[排名](https://en.wikipedia.org/wiki/List_of_the_most_common_U.S._place_names)，美国至少有 91 个叫做华盛顿（Washington）的地方。斯普林菲尔德（Springfield，也可以诗意地译作春田）也是个重复率比较高的地名，例如《辛苦森一家》所在的虚构城市，还有奈史密斯发明篮球的地方。加拿大有个伦敦，为了跟英国的区别，大家常叫它 boring London。
+美国的很多地名都没有什么创意，重名的很多。维基百科上有个[排名](https://en.wikipedia.org/wiki/List_of_the_most_common_U.S._place_names)，美国至少有 91 个叫做华盛顿（Washington）的地方。斯普林菲尔德（Springfield，也可以诗意地译作春田）也是个重复率比较高的地名，例如《辛普森一家》所在的虚构城市，还有奈史密斯发明篮球的地方。加拿大有个伦敦，为了跟英国的区别，大家常叫它 boring London。
 
-这周看到了下面这个例子也很有意思：
-
-{{< twitter user="SteveCollinsSJ" id="1557854354828566528" >}}
+这周看到了下面这个[例子](https://x.com/SteveCollinsSJ/status/1557854354828566528)也很有意思：
 
 缅因州至少有以下地名与欧洲国家首都相同：
 
