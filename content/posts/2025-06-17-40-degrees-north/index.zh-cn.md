@@ -5,11 +5,7 @@ images: ['N-40.JPG']
 tags: ['北京', '北大', '2010', '地理']
 ---
 
-昨天看到yihong的推特：
-
-{{<x user="yihong0618" id="1934438154007896574">}}
-
-这位作者[记录了](https://nano.ac/posts/63380003/)自己突发奇想，探访距离自己最近的整数经纬度交点—北纬30度，东经120度—的故事。这种事情吧，其实没啥意义，纬度还可以说是有一定自然意义的，经度纯属人为规定的。但是呢，仔细一回味，也还挺有意思的。这个活动有个名字，叫做 degree confluence project, 网站域名也挺牛，[https://confluence.org/](https://confluence.org/)，不是atlassian家的那个[confluence](https://www.atlassian.com/software/confluence)，也不是[confluent](https://www.confluent.io/)，别搞错了哈。
+昨天看到yihong的[推特](https://x.com/yihong0618/status/1934438154007896574)：这位作者[记录了](https://nano.ac/posts/63380003/)自己突发奇想，探访距离自己最近的整数经纬度交点—北纬30度，东经120度—的故事。这种事情吧，其实没啥意义，纬度还可以说是有一定自然意义的，经度纯属人为规定的。但是呢，仔细一回味，也还挺有意思的。这个活动有个名字，叫做 degree confluence project, 网站域名也挺牛，[https://confluence.org/](https://confluence.org/)，不是atlassian家的那个[confluence](https://www.atlassian.com/software/confluence)，也不是[confluent](https://www.confluent.io/)，别搞错了哈。
 
 说来惭愧，这刚去伦敦玩，都没去格林尼治天文台本初子午线打卡，还好意思就这个话题水一篇博文？不过我其实是到过一个这种地理标志的————北纬40度地标。
 

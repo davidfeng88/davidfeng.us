@@ -7,11 +7,7 @@ tags: ['Beijing', 'PKU', '2010', 'Geography']
 
 (Translated from the Chinese version with the help of Claude.)
 
-Yesterday I saw yihong's tweet:
-
-{{<x user="yihong0618" id="1934438154007896574">}}
-
-This author [documented](https://nano.ac/posts/63380003/) his spontaneous idea to visit the nearest integer coordinate intersection to his location—30 degrees North, 120 degrees East. This kind of thing doesn't really have much meaning—latitude at least has some natural significance, while longitude is purely arbitrary human convention—but it's still quite interesting. This activity has a name: the Degree Confluence Project, with a pretty impressive domain name [https://confluence.org/](https://confluence.org/). Don't confuse it with Atlassian's [Confluence](https://www.atlassian.com/software/confluence) or [Confluent](https://www.confluent.io/).
+Yesterday I saw yihong's [tweet](https://x.com/yihong0618/status/1934438154007896574), this author [documented](https://nano.ac/posts/63380003/) his spontaneous idea to visit the nearest integer coordinate intersection to his location—30 degrees North, 120 degrees East. This kind of thing doesn't really have much meaning—latitude at least has some natural significance, while longitude is purely arbitrary human convention—but it's still quite interesting. This activity has a name: the Degree Confluence Project, with a pretty impressive domain name [https://confluence.org/](https://confluence.org/). Don't confuse it with Atlassian's [Confluence](https://www.atlassian.com/software/confluence) or [Confluent](https://www.confluent.io/).
 
 Speaking of which, it's embarrassing that I just went to London for fun and didn't even visit the Prime Meridian at Greenwich Observatory to take a commemorative photo, yet here I am writing a blog post about this topic? However, I have actually been to one of these geographical markers—the 40 degrees North landmark.
 
