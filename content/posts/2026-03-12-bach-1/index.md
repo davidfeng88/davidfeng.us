@@ -42,7 +42,7 @@ Bach’s career can roughly be divided into three periods: Weimar, Köthen, and 
 
 {{<figure src="Bach-life-map.webp" title="Places Bach Lived and Worked">}}
 
-## BWV 208–9
+## BWV 208/9
 
 Enough background—let’s start listening.
 
@@ -71,7 +71,7 @@ Performed by Lang Lang and Gina Alice:
 
 {{<youtube 3X98E88-bTI>}}
 
-## BWV 147–10
+## BWV 147/10
 
 BWV 147 is a sacred cantata titled **Herz und Mund und Tat und Leben** (“Heart and mouth and deed and life”). Its most famous movement is the chorale **Jesus bleibet meine Freude** (“Jesu, Joy of Man’s Desiring”).
 

@@ -38,7 +38,7 @@ images: ["bach.jpg"]
 
 {{<figure src="Bach-life-map.webp" title="巴赫一生足迹">}}
 
-## BWV 208-9
+## BWV 208/9
 
 说了这么多，还是开始听吧。BWV 208 Was mir behagt, ist nur die muntre Jagd / The lively hunt is all my heart's desire / 唯有愉快的狩猎最让我开心，俗称 Hunting Cantata / 狩猎康塔塔，是巴赫现存最早的世俗康塔塔，创作于魏玛时期的1713年，是巴赫的老板魏玛公爵送给喜欢打猎的邻国公爵的生日礼物。最有名的是第九乐章女高音咏叹调：Schafe können sicher weiden / Sheep May Safely Graze / 羊群可以安心吃草。旋律优美，两支长笛与弦乐描绘出美丽祥和的田园风情。歌词由魏玛宫廷诗人所作，将良好的治理与狩猎/放牧作类比，其实就是一篇马屁文章。巴赫大概对此作品很满意，后面多次回收给其他王公贵族祝寿，改个名字就行，哈哈！不过话说回来，这么优秀的作品，只给一个人过生日演出一次，没有录音录像，确实很浪费，回收我是支持的。
 
@@ -61,7 +61,7 @@ Und was Länder glücklich macht. / and what makes countries happy.
 
 {{<youtube 3X98E88-bTI>}}
 
-## BWV 147-10
+## BWV 147/10
 
 BWV 147 是一部宗教康塔塔，Herz und Mund und Tat und Leben / Heart and mouth and deed and life / 心、口、行动与生命。其中第十乐章的合唱 Jesus bleibet meine Freude / Jesu, Joy of Man's Desiring / 耶稣，世人仰望的喜悦 最有名。创作过程还有个小故事：1716年12月1日，巴赫在魏玛的上司去世，巴赫和魏玛人都觉得按照实力和贡献，巴赫应该顺利接班了。巴赫开启鸡血模式，连续创作康塔塔来展现实力，其中就包括这部康塔塔的早期版本BWV 147a。结果大跌眼镜，前上司的儿子，无名小辈直接接班。巴赫怒了，辞职不干！中间跟老板们各种拉扯，还蹲了一个月的监狱，最后批准离职，跳槽去了科腾。1723年到莱比锡后，巴赫又重新捡起来扩展成了现在的样子。
 
