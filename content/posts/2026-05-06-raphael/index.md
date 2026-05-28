@@ -237,7 +237,7 @@ My favorite works in the exhibition were clearly the [Alba Madonna](#madonnas) a
 
 The exhibition runs through June 28, and the Met has quietly continued adding material to the [official website](https://www.metmuseum.org/exhibitions/raphael-sublime-poetry). The “Inside the Exhibition” texts appeared online after my visit, while the “Exhibition Objects” section was added even later, when I was nearly finished writing this post. Maybe they are gradually releasing more material to attract additional visitors.
 
-If I had to criticize the exhibition slightly, I would say there were perhaps too many sketches and preparatory studies that felt, to a casual viewer like me, somewhat repetitive. Of course, Raphael paintings are major treasures wherever they reside, and borrowing them is incredibly difficult.
+If I had to criticize the exhibition slightly, I would say there were perhaps too many sketches and preparatory studies that felt, to a casual viewer like me, somewhat repetitive (the exhibition contains 33 paintings and 142 drawings by Raphael). Of course, Raphael paintings are major treasures wherever they reside, and borrowing them is incredibly difficult.
 
 Structurally, the exhibition also felt somewhat front-heavy. The early sections followed a very clear narrative arc, while the later sections became more diffuse and sprawling. But perhaps that simply reflects Raphael's own late career, when he was simultaneously operating across painting, architecture, archaeology, workshop management, and papal politics.
 
