@@ -1069,7 +1069,7 @@ the vision of the prophet Ezekiel, who, when a great storm broke and the heavens
 
 ## 去世
 
-正当拉斐尔领导着他的团队，同时在装饰梵蒂冈房间、监督圣彼得大教堂建设、罗马文物遗迹保护工作等多个战线上干得风生水起之时，1520年4月6日，37岁的拉斐尔突然去世，被安葬在罗马万神庙。只剩下我们这些凡人看着他的作品不胜唏嘘。死亡原因众说纷纭，有说对手下毒的，有说纵欲过度的。我觉得可能是 Sprezzatura 刻意掩盖努力痕迹的优雅。事情太多，弦绷得太紧，就断了。
+正当拉斐尔领导着他的团队，同时在装饰梵蒂冈房间、监督圣彼得大教堂建设、罗马文物遗迹保护工作等多个战线上干得风生水起之时，1520年4月6日，37岁的拉斐尔突然去世，被安葬在罗马万神殿。只剩下我们这些凡人看着他的作品不胜唏嘘。死亡原因众说纷纭，有说对手下毒的，有说纵欲过度的。我觉得可能是 Sprezzatura 刻意掩盖努力痕迹的优雅。事情太多，弦绷得太紧，就断了。
 
 [瓦萨里在《艺苑名人录》中评价拉斐尔](https://www.youtube.com/watch?v=ijTamzypMmQ&t=203s)：大多数艺术家本性中都有某种张狂与野性……然而在拉斐尔身上却有种极罕见的谦虚……他才华出众、为人随和、生性善良，又知书达理、举止端庄，**可以在任何场合，让不同阶层的人同时感到亲切、友善**（重点是我加的）。这最后一句话让我想起了同样是早逝的秦可卿。红楼梦第十三回描述她死后，“那长一辈的想他素日孝顺，平一辈的想他素日和睦亲密，下一辈的想他素日慈爱，以及家中仆从老小想他素日怜贫惜贱，慈老爱幼之恩，莫不悲嚎痛哭者。”不论地位高低、年纪长幼，所有的人都喜欢。这一方面是天赋，另一方面在背后需要付出极大的心力。
 
@@ -1093,9 +1093,36 @@ the vision of the prophet Ezekiel, who, when a great storm broke and the heavens
 
 {{<image src="Michel-2.jpg" caption="又一幅圣米迦勒斩魔，[卢浮宫](https://collections.louvre.fr/en/ark:/53355/cl010060771)">}}
 
-{{<image src="friends.jpg" caption="与朋友的合影，[卢浮宫](https://collections.louvre.fr/en/ark:/53355/cl010060770)">}}
+{{<image src="friends.jpg" caption="与朋友的合影，[卢浮宫](https://collections.louvre.fr/en/ark:/53355/cl010060770)。拉斐尔在左边直视观众。右边这位小哥身份未知。">}}
 
 {{<image src="jardiniere.jpg" caption="园丁圣母，[卢浮宫](https://collections.louvre.fr/en/ark:/53355/cl010060754)">}}
+
+## 2026-06-16 更新
+
+图书馆借了几本拉斐尔相关图书来看，更新一下。
+
+1. 知名博物馆举办顶级艺术家特展时，一般会出版配套图书，叫做展览目录/图录/Catalogue。2004年伦敦国家美术馆的[配套图书](https://www.amazon.com/Raphael-Urbino-National-Gallery-Company/dp/185709994X?psc=1)图文介绍为主，深入分析不多（[特展网站](https://www.nationalgallery.org.uk/paintings/learn-about-art/lives-of-artists/raphael-from-urbino-to-rome?viewPage=1)）。2020年拉斐尔逝世五百年，佛罗伦萨乌菲兹博物馆标新立异，时间上逆序组织展览，特展名称叫 Raphael: 1520-1483，[配套书籍](https://www.amazon.com/Raphael-Raffaello-Sanzio-Urbino/dp/8857243095)从拉斐尔葬礼开始，以拉斐尔最早期的作品结束。不同的章节由不同机构的不同学者执笔。似乎这是更常见的作法。这次2026年大都会特展，策展人大包大揽，执笔[配套图书](https://www.amazon.com/Raphael-Sublime-Carmen-C-Bambach/dp/1588398110)90%的篇幅。所以之前我错了，八年时间不光借展品，写稿也花了不少时间！当然亚马逊上也有读者说这样的安排错过了提供多个视角的机会。
+
+2. 万神殿开馆（sublime poetry + Claude）
+
+https://claude.ai/chat/aa2c8a45-c178-4bf8-97f1-99c7d7e3e58a
+
+
+3. 拉斐尔很多作品在Chigi Chapel and Villa Farnesina
+
+Raphael in his workshop 忧郁气质的版画 by raimondi
+
+伦敦特展网站
+https://www.nationalgallery.org.uk/paintings/learn-about-art/lives-of-artists/raphael-from-urbino-to-rome?viewPage=1
+
+进入六月下旬了，再次查看特展网站，又有更新
+文章
+https://www.metmuseum.org/perspectives/raphael-and-antiquity
+
+五小时研讨会
+
+https://www.metmuseum.org/perspectives/raphael-up-close-perspectives-on-research-symposium
+
 
 [^1]: 帮助比较大的资料：[一亩三分地匿名博主的评论](https://www.1point3acres.com/bbs/thread-1174410-1-1.html)，[大卫翁和可达的逛展音频](https://www.youtube.com/watch?v=ATVG4ABmwIU)（全网我找到的最好的解读），[官方语音导览](https://www.metmuseum.org/exhibitions/raphael-sublime-poetry/audio-guide)，[官方说明版文案](https://www.metmuseum.org/exhibitions/raphael-sublime-poetry/inside-the-exhibition)，[官方宣传视频](https://www.youtube.com/watch?v=y5vnCnB4JcE)。最有意思的是参观当天上午查漏补缺的时候发现了[谢拉克洛瓦和凯西的逛展视频](https://www.youtube.com/watch?v=jSgakCJih54)（似乎是当天上午才发布，头天晚上还没搜到）。看完视频下午去现场结果就碰到凯西。缘分这种东西，说也说不清楚！
 [^web]: 很好奇ChatGPT将如何翻译这些中文网络用语。
