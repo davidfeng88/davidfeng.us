@@ -132,6 +132,8 @@ https://www.britishmuseum.org/collection/object/H_1939-1010-93
 玉璧（90/100）
 度母雕像（54/100）
 
+玉琮：大英博物馆和国博都有。
+
 
 
 [^location]: CSE可能是具体的位置，但对游客来说意义不大。

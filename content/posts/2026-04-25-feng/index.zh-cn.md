@@ -1,7 +1,7 @@
 ---
 title: "DeepSeek带我读《封氏闻见记》"
 date: 2026-04-25T16:55:08-04:00
-tags: ["封氏", "封姓", "封氏闻见记", "DeepSeek", "AI"]
+tags: ["封氏", "封姓", "封氏闻见记", "读书笔记", "DeepSeek", "AI"]
 images: ["feng.jpg"]
 ---
 

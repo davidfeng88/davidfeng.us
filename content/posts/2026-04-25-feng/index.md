@@ -1,7 +1,7 @@
 ---
 title: "Reading *Fengshi Wenjian Ji* with DeepSeek"
 date: 2026-04-25T16:55:08-04:00
-tags: ["Feng", "Feng Clan", "Fengshi Wenjian Ji", "DeepSeek", "AI"]
+tags: ["Feng", "Feng Clan", "Fengshi Wenjian Ji", "Book", "DeepSeek", "AI"]
 images: ["feng.jpg"]
 ---
 

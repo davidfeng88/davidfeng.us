@@ -65,13 +65,21 @@ url = "/posts/"
 title = ""
 weight = 2
 [[languages.zh-cn.menu.main]]
+identifier = "lab"
+pre = ""
+post = ""
+name = "笔记"
+url = "/notes/"
+title = ""
+weight = 3
+[[languages.zh-cn.menu.main]]
 identifier = "tags"
 pre = ""
 post = ""
 name = "标签"
 url = "/tags/"
 title = ""
-weight = 3
+weight = 4
 
 [params]
 #  LoveIt theme version
