@@ -32,13 +32,21 @@ url = "/posts/"
 title = ""
 weight = 2
 [[languages.en.menu.main]]
+identifier = "notes"
+pre = ""
+post = ""
+name = "Notes"
+url = "/notes/"
+title = ""
+weight = 3
+[[languages.en.menu.main]]
 identifier = "tags"
 pre = ""
 post = ""
 name = "Tags"
 url = "/tags/"
 title = ""
-weight = 3
+weight = 4
 
 [languages.zh-cn]
 weight = 2
@@ -65,7 +73,7 @@ url = "/posts/"
 title = ""
 weight = 2
 [[languages.zh-cn.menu.main]]
-identifier = "lab"
+identifier = "notes"
 pre = ""
 post = ""
 name = "笔记"
