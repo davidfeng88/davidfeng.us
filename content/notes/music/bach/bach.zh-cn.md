@@ -1,0 +1,68 @@
+---
+title: "巴赫笔记入口"
+date: 2026-07-16T21:54:39-04:00
+tags: ["巴赫", "古典音乐"]
+images: []
+---
+
+- 1685出生，与亨德尔同年，两人均为德国人
+- 11岁前父母去世了。
+- 早期在魏玛作管风琴演奏家。
+- 科腾1717-1723
+	- 巴赫应聘成功，但回魏玛取财物和妻儿的时候被关入监狱一个月，因为没有取得前老板同意就跳槽。
+	- 主要作品：
+		- 平均律键盘曲集
+			- 赋格
+				- 2-32个声部
+				- subject 主题
+				- Exposition 每个声部依次呈现主题
+				- Episode 从主题离开，一般有modulation转调
+				- Pedal point 结尾时持续音音符
+		- 勃兰登堡协奏曲
+			- 巴赫献给勃兰登堡侯爵，以备之后跳槽，但侯爵完全没看，直到1850年在图书馆被发现。一共六首
+			- 第五首
+				- concertino 主奏部 小提琴 长笛 大键琴
+				- tutti 其他演奏者，约12人，演奏ritornello间奏 用小提琴快速演奏
+				- 乐曲是间奏-{独奏-间奏} x n. 间奏有点类似于赋格的主题。独奏有点像赋格中的episode.
+				- cadenza: 独奏者炫技区段
+				- 9分钟，比维瓦尔第 3分钟的协奏曲长
+				- 演奏者只有大键琴和大提琴是坐着的。其他人站着。
+- 莱比锡
+	- 1723年5月22日到达，1750去世。27年。担任该市最重要的音乐职位，一方面负责音乐训练，另一方面负责为两个教堂写音乐。
+	- cantata
+		- mini 音乐剧 约30分钟，由咏叹调 宣叙调 合唱 组成。一般基于chorale tune。合唱曲调一般比较简单、流行，可能是从流行歌曲换词而来，可能从格里高利圣咏而来，可能是原创曲目。大家一起唱。一般是AAB型。
+		- 周日的教堂活动（宗教和社交）一般日程
+			- 管风琴前奏曲（基于合唱曲调）
+			- 垂怜经 荣耀经
+			- 阅读新约书信
+			- 合唱
+			- 讲经
+			- 康塔塔（结合今日讲经主题）
+			- 讲道
+			- 其他祈祷和音乐
+			- 圣餐
+		- [康塔塔推荐]({{<relref "cantata.zh-cn.md">}})
+	- 大型作品均创作于莱比锡
+		- [BWV 232 B小调弥撒]({{<relref "bwv-232-mass-in-b-minor.zh-cn.md">}})
+		- BWV 243 尊主颂 Magnificat
+		- [BWV 244 马太受难曲]({{<relref "bwv-244-matthew.zh-cn.md">}})
+		- [BWV 245 约翰受难曲]({{<relref "bwv-245-john.zh-cn.md">}})（可能在到达莱比锡之前就开始写了，但是是为了新职位而写的）
+		- [BWV 248 圣诞清唱剧 Christmas Oratorio]({{<relref "bwv-248-christmas.zh-cn.md">}})
+		- 参考资料 J. S. Bach - Major works for voices and instruments by Melvin P. Unger
+- 1829年门德尔松（1809-1847）演出了巴赫的 BWV 244 马太受难曲 。他第一次看到 《受难曲 》的乐谱时只有 15 岁，而当他表演这部作品的努力实现时他只有 20 岁
+- 莱比锡人把巴赫遗骨挖出来测量头骨，当时流行理论认为头小是天才的表现。结果尺寸完全正常。巴赫遗骨移到了莱比锡最大的圣托马斯教堂。
+- [BWV 140 Awake, the voices call to us]({{<relref "bwv-140-wake.zh-cn.md">}})
+- BWV 147 Jesus, Joy of Man's Desiring
+- BWV 565 Toccata and Fugue in D minor
+- BWV 924 Prelude in C major, harpsichord
+- [BWV 988 哥德堡变奏曲]({{<relref "bwv-988-goldberg.zh-cn.md">}})
+- BWV 1007 无伴奏大提琴组曲第一号前奏曲
+	- {{<youtube 1prweT95Mo0>}}
+	- 无伴奏-独奏
+	- 如何独奏出高中低三个声部？独奏者先后演奏三个声部的音符。
+	- 巴赫这种大家的作品居然也会在身后受到冷落，靠着机缘巧合被重新发现
+	- ref https://www.youtube.com/watch?v=2lF5Q-HcA-8
+- BWV 1043 D小调双小提琴协奏曲 文明4配乐 看视频可以从视觉上辅助地感受两个小提琴的旋律之间的互动
+	- {{<youtube 1Ji03g_5XXk>}}
+- BWV 1051 第六号勃兰登堡协奏曲 文明4配乐
+- Soprano 女高, Alto 女中 或 假声男高音, Tenor 男高, Bass 男低 SATB
