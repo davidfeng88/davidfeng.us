@@ -1,7 +1,7 @@
 ---
-title: "Notes on Bach's Music (1/N)"
+title: "A Bach Listening Journal (1/N)"
 date: 2026-03-12T21:24:39-04:00
-tags: ["classical music", "bach"]
+tags: ["Classical music", "Bach"]
 images: ["bach.jpg"]
 ---
 
