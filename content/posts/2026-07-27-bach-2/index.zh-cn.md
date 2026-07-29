@@ -1,8 +1,7 @@
 ---
-title: "巴赫音乐心得（2/N）- BWV 8"
+title: "巴赫音乐心得（2/N）：BWV 8"
 date: 2026-07-27T21:11:01-04:00
 tags: ["古典音乐", "巴赫"]
-images: []
 ---
 
 书接[上回](../2026-03-12-bach-1/)，这次我们从第一类作品——宗教康塔塔（[YouTube Music播放列表](https://music.youtube.com/playlist?list=PLXDE-2uz_FRFnAecVau9o71pAAW5dboJW&si=cTWUo4JXzvnAvdWd)）[^list]开始，按照BWV作品编号梳理一下巴赫作品中的佳作。首先声明这只是一个业余爱好者出于“独乐乐不如众乐乐”的分享，肯定有不科学客观的地方。我的出发点很简单——要好听，毕竟只有好听了，才会有兴趣去了解创作背景、神学含义之类的附加价值。

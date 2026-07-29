@@ -2,7 +2,6 @@
 title: "A Bach Listening Journal (2/N): BWV 8"
 date: 2026-07-27T21:11:01-04:00
 tags: ["Classical Music", "Bach"]
-images: []
 ---
 
 (Translated from the Chinese version with the help of ChatGPT.)
