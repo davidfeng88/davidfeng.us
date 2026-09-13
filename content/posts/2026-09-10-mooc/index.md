@@ -1,7 +1,7 @@
 ---
 title: "Use It While It’s Free: Thoughts on the Death of MOOCs"
 date: 2026-09-10T22:05:19-04:00
-tags: ["MOOC"]
+tags: ["MOOC", "Random Thoughts"]
 ---
 
 (Translated from the Chinese version with the help of ChatGPT.)

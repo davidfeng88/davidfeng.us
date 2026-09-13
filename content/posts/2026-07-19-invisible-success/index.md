@@ -1,6 +1,7 @@
 ---
 title: "The Success You Never Notice"
 date: 2026-07-19T21:20:40-04:00
+tags: ["Random Thoughts"]
 ---
 
 (Translated from the Chinese version with the help of ChatGPT.)

@@ -1,7 +1,7 @@
 ---
 title: "曲突徙薪——看不见的成功"
 date: 2026-07-19T21:20:40-04:00
-tags: ["随笔"]
+tags: ["杂谈"]
 ---
 
 最近从李天豪老师的[视频](https://youtu.be/UUlk0AKp1Nk?si=TMODZ6_qx5Lh2ViY&t=830)中学到一个新成语——曲突徙薪。
