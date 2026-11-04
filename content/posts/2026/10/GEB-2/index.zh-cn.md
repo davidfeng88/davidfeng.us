@@ -14,7 +14,7 @@ images: []
 对话《三部创意曲》中出场了阿基里斯、乌龟、芝诺三个人物。几个梗：
 - 乌龟提到零，而阿基里斯却跳出系统，说零现在还没发明出来。同时向卡罗尔的《二部创意曲》致敬。
 - 阿基里斯和乌龟作为芝诺悖论中的人物，开始谈论起芝诺，以及他的悖论。层次的缠结和自指。
-- 阿基里斯提到“六祖芝诺”和风动、幡动、心动的争论，这显然是阿基里斯把禅师六祖慧能的故事错记到芝诺头上了。乌龟指出后，阿基里斯说芝诺、智能、慧能，傻傻分不清楚。这里是中文译者移译了，英文是说阿基里斯在背诵禅宗六位祖师名字（the names of the six patriarches of Zen），结果背成了六祖是芝诺（the sixth patriarch is Zeno），Zen 和 Zeno 拼写相近的梗。
+- 阿基里斯提到“六祖芝诺”和风动、幡动、心动的争论，这显然是阿基里斯把禅师六祖慧能的故事错记到芝诺头上了。乌龟指出后，阿基里斯说芝诺、智能、慧能，傻傻分不清楚。这里是中文译者移译了，英文是说阿基里斯在背诵禅宗六位祖师名字（the names of the six patriarches of Zen），结果背成了六祖是芝诺（the sixth patriarch is Zeno），Zen 和 Zeno 拼写相近的梗。（[这个网页](https://godel-escher-bach.fandom.com/wiki/Three-Part_Invention)提到慧能在日文中是Enō，这就跟Zeno拼写很像了。）
 - 芝诺出现了，阿基里斯和乌龟开始争论风动还是幡动。层次缠结和自指。
 - 乌龟不知道芝诺的名字，但芝诺直接喊出阿基里斯的名字。
 - 芝诺说“我的师傅五祖”，芝诺真是慧能了？
@@ -49,6 +49,14 @@ images: []
 - 阿基里斯和乌龟比赛结束，阿基里斯追上乌龟，坐在龟背上。二人谈话几句，乌龟说：“你对我真是过奖了——哦，我是说你真是过重了”。这个过奖过重稍显生硬，一看英文，果然，不好翻译，译者尽力了。英文原文是"You flatter me - FLATTEN, I mean"，是flatter奉承和flatten压平的谐音梗。
 - 二人说速记还没发明出来、钦佩欧几里得虽然几个世纪之后他才出现。荒谬感被侯世达在《三部创意曲》中模仿。
 - 结尾乌龟说他的表兄假海龟要把阿基里斯改名“悟诡”,而阿基里斯说要把乌龟改名“厌极易死”,似乎是俩人要换名字。英文版的几个名字：乌龟Tortoise，阿基里斯Achilles，假海龟Mock-Turtle （来自《爱丽丝梦游仙境》的角色，有个英国菜叫mock turtle soup仿鳖汤，用其他食材模仿昂贵龟汤，刘易斯将它变成一个角色。），悟诡Taught-us（教过我们），厌极易死 A kill-ease。
+- [这个网页](https://godel-escher-bach.fandom.com/wiki/Two-Part_Invention)提到卡罗尔此处是对自己在《爱丽丝梦游仙境》第九章致敬。假海龟回忆道：
+> '...we went to school in the sea. The master was an old Turtle--we used to call him Tortoise--'
+
+> 'Why did you call him Tortoise, if he wasn't one?' Alice asked.
+
+> 'We called him Tortoise because he taught us,' said the Mock Turtle angrily: 'really you are very dull!'
+
+注意，turtle指的是海龟，而tortoise指的是陆龟。
 
 ## 第二章
 

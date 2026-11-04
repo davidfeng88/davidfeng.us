@@ -1,5 +1,5 @@
 ---
-title: "GEB Reading Notes #2 — Chapters 1 and 2"
+title: "GEB Reading Notes #2: Chapters 1 and 2"
 date: 2026-10-17T14:31:06-04:00
 tags: ["GEB", "Reading Notes"]
 images: []

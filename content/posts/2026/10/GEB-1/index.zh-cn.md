@@ -15,8 +15,8 @@ images: ["cover-en.jpg"]
 
 网上也有一些相关资源，可以参考：
 
-- [MIT GEB Lectures](https://www.youtube.com/watch?v=lWZ2Bz0tS-s&list=PLdcw5wvaQEomvQjXjBo3L7cEqZ8xNECyA) 当年看过一两个视频，感觉有点浅，一般一个视频对应几章。这次重读我应该也会参考。
 - [MIT GEB](https://ocw.mit.edu/courses/es-258-goedel-escher-bach-spring-2007/pages/syllabus/) 很多参考资料，最有意思的是每章搭配了一个巴赫作品。
+- （更新）[GEB Fandom](https://godel-escher-bach.fandom.com/wiki/G%C3%B6del,_Escher,_Bach_Wiki)：不知道是哪位（哪些）热心读者设立的。之前在fandom.com有各种影视剧的wiki，没想到也有GEB的。在阅读过程中发现的，把很多彩蛋都提示了。跟我自己的笔记相比，感觉自己get到了大部分的梗，很自豪，哈哈。在GEB-1和-2笔记中加入了自己miss掉的两个小梗。英文版就不更新了。不过这些英文资料都不会有中文版的彩蛋。此外还有一些Reddit上面的读书俱乐部帖子，信息有点散，讨论也不太够。网上进行深入讨论本来就是一件困难的事情。读书本来是很私人的事情，但读到好书又想找到同好分享，独乐乐不如众乐乐嘛。想起了网友的话："Seeing someone read a book you love is seeing a book recommend a person."
 
 顺便cue一下yihong哥2022年的推，念念不忘，必有回响，择日不如撞日，马上开始！
 
