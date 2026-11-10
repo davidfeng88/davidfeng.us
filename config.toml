@@ -24,13 +24,21 @@ url = "/about/"
 title = ""
 weight = 1
 [[languages.en.menu.main]]
+identifier = "Now"
+pre = ""
+post = ""
+name = "Now"
+url = "/now/"
+title = ""
+weight = 2
+[[languages.en.menu.main]]
 identifier = "posts"
 pre = ""
 post = ""
 name = "Posts"
 url = "/posts/"
 title = ""
-weight = 2
+weight = 3
 [[languages.en.menu.main]]
 identifier = "notes"
 pre = ""
@@ -38,7 +46,7 @@ post = ""
 name = "Notes"
 url = "/notes/"
 title = ""
-weight = 3
+weight = 4
 [[languages.en.menu.main]]
 identifier = "tags"
 pre = ""
@@ -46,7 +54,7 @@ post = ""
 name = "Tags"
 url = "/tags/"
 title = ""
-weight = 4
+weight = 5
 
 [languages.zh-cn]
 weight = 2
@@ -65,13 +73,21 @@ url = "/about/"
 title = ""
 weight = 1
 [[languages.zh-cn.menu.main]]
+identifier = "Now"
+pre = ""
+post = ""
+name = "近况"
+url = "/now/"
+title = ""
+weight = 2
+[[languages.zh-cn.menu.main]]
 identifier = "posts"
 pre = ""
 post = ""
 name = "文章"
 url = "/posts/"
 title = ""
-weight = 2
+weight = 3
 [[languages.zh-cn.menu.main]]
 identifier = "notes"
 pre = ""
@@ -79,7 +95,7 @@ post = ""
 name = "笔记"
 url = "/notes/"
 title = ""
-weight = 3
+weight = 4
 [[languages.zh-cn.menu.main]]
 identifier = "tags"
 pre = ""
@@ -87,7 +103,7 @@ post = ""
 name = "标签"
 url = "/tags/"
 title = ""
-weight = 4
+weight = 5
 
 [params]
 #  LoveIt theme version
