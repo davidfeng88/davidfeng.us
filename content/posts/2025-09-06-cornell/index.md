@@ -5,7 +5,7 @@ images: ["statue.jpg"]
 tags: ["Cornell University", "NY", "Travel"]
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 Other posts in this series:
 

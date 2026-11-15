@@ -29,5 +29,5 @@ See https://logseq-public.pages.dev/#/page/hugo for more.
   5. Add `reading/读书笔记` for book reviews.
   6. Check existing tags for more ([en](https://davidfeng.us/tags/), [cn](https://davidfeng.us/zh-cn/tags/))
 4. Preview by `hugo server` and revise.
-5. Translate to English with Claude. Add `(Translated from the Chinese version with the help of Claude.)` and proofread.
+5. Translate to English with LLM. Add `(Translated from the Chinese version with the help of LLM.)` and proofread.
   - for reasons unknown to me, if the post contains images, they won't show up properly in the Chinese version if the English version does not exist.

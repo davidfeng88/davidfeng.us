@@ -5,7 +5,7 @@ images: ['log-huts.jpg']
 tags: ['History', 'American History', 'Philadelphia', 'PA', 'Travel']
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 Continuing from the [previous post](../2024-04-10-sunrise/), my son had spring break in early April, so I booked a trip to Philadelphia well in advance. Unfortunately, the weather didn't cooperate - it rained heavily for several days straight, and both the [Wild Safari](https://www.sixflags.com/wildsafariadventure) and [Diggerland](https://diggerlandusa.com/) that we planned to visit were temporarily closed. (The business owners who were hoping to make a fortune during spring break must have been even more heartbroken! Could they buy insurance to hedge against such risks?) Fortunately, several backup attractions that became our main destinations turned out to be surprisingly amazing and worth documenting.
 

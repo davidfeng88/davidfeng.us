@@ -5,7 +5,7 @@ images: ["intrepid.jpg"]
 tags: ["Intrepid", "NY", "NYC", "Travel"]
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 At the end of June, I visited the Intrepid Sea, Air & Space Museum located at Pier 86 on Manhattan's west side. After procrastinating for a month and a half, I'm finally writing this travel blog combining my memories, photos, and the guided tour from Bloomberg Connects.
 

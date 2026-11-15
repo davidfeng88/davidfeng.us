@@ -4,7 +4,7 @@ date: 2024-10-03T21:39:03-04:00
 tags: ['Poland', 'national anthem']
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 On Monday morning while commuting on the train, I took out my e-reader and continued reading Hofstadter's "I Am a Strange Loop" (setting a flag here - I should write a review later). In Chapter 18, the author uses the relationship between regions and ethnicities as an analogy for each person's body and mind. He mentioned that Poland's territory has been partitioned multiple times throughout history[^1], but the Polish people still exist. The first line of the Polish national anthem is "As long as we live, Poland will not perish!"
 

@@ -5,7 +5,7 @@ tags: ["Art", "Raphael", "Renaissance", "The Metropolitan Museum of Art"]
 images: ["alba-1.jpg"]
 ---
 
-(Translated from the Chinese version with the help of ChatGPT. The Chinese version also contains the OCR English label texts for exibition objects.)
+(Translated from the Chinese version with the help of LLM. The Chinese version also contains the OCR English label texts for exibition objects.)
 
 ## Why I Went
 

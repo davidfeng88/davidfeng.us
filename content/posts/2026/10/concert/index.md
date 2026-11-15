@@ -4,7 +4,7 @@ date: 2026-10-20T20:54:27-04:00
 tags: ["Music", "Classical Music", "Pergolesi", "Bach"]
 ---
 
-(Translated from the Chinese version with the help of ChatGPT.)
+(Translated from the Chinese version with the help of LLM.)
 
 I was delighted to hear from an old friend on WeChat last week. We went to elementary and middle school together for seven years. After that, she pursued a career in music at full speed, while I followed the conventional path of further education and then a job. Since graduating from college, we've met only a handful of times—literally, I could count them on one hand. I was studying in Chicago when she came to perform at a music festival; I was working in Los Angeles when she came through with her orchestra.
 

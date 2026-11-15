@@ -5,7 +5,7 @@ images: ['cassettetape.jpg']
 tags: ['Chicago', 'IL', 'Music', 'Random thoughts']
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 Today I had some rare free time, so I decided to string together and record some old stories that I've been reminiscing about lately.
 

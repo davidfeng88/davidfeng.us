@@ -5,7 +5,7 @@ tags: ["GEB", "Reading Notes"]
 images: []
 ---
 
-(Translated from the Chinese version with the help of ChatGPT.)
+(Translated from the Chinese version with the help of LLM.)
 
 ## Three-Part Invention
 

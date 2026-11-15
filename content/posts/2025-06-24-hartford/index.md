@@ -5,7 +5,7 @@ images: ["state-capitol-1.jpg"]
 tags: ["Hartford", "CT", "Travel", "History", "American History"]
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 Last weekend I took a half-day trip to Hartford, the capital of Connecticut. Here's a stream-of-consciousness record with photos.
 

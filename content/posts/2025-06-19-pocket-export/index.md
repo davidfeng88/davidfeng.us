@@ -5,7 +5,7 @@ images: ['evolution.png']
 tags: ['Pocket', 'English Writing', 'Career']
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 (Like the previous blog post, this one is also nostalgic.)
 

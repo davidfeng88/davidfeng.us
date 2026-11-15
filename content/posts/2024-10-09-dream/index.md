@@ -4,7 +4,7 @@ date: 2024-10-09T21:22:38-04:00
 tags: ['dream']
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 Today was a special day. I had arranged for a group of my middle school classmates to visit me at school, and there was also a lecture by Hofstadter that I wanted to attend.
 

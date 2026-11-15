@@ -5,7 +5,7 @@ images: ['N-40.JPG']
 tags: ['Beijing', 'PKU', '2010', 'Geography']
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 Yesterday I saw yihong's [tweet](https://x.com/yihong0618/status/1934438154007896574), this author [documented](https://nano.ac/posts/63380003/) his spontaneous idea to visit the nearest integer coordinate intersection to his location—30 degrees North, 120 degrees East. This kind of thing doesn't really have much meaning—latitude at least has some natural significance, while longitude is purely arbitrary human convention—but it's still quite interesting. This activity has a name: the Degree Confluence Project, with a pretty impressive domain name [https://confluence.org/](https://confluence.org/). Don't confuse it with Atlassian's [Confluence](https://www.atlassian.com/software/confluence) or [Confluent](https://www.confluent.io/).
 

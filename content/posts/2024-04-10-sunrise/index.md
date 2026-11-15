@@ -5,7 +5,7 @@ images: ['chair.jpg']
 tags: ['Reading', 'History', 'American History']
 ---
 
-(Translated from the Chinese version with the help of Claude. This article talks about translation from English to Chinese, therefore this English version might not make a lot of sense comparing to the original Chinese version.)
+(Translated from the Chinese version with the help of LLM. This article talks about translation from English to Chinese, therefore this English version might not make a lot of sense comparing to the original Chinese version.)
 
 A while ago, I happened to stumble upon Yi Zhongtian's "Philadelphia Storm" that I had previously bookmarked, which recounts the process of the 1787 Philadelphia Constitutional Convention. Since I was planning to visit [Philadelphia](../2024-04-28-philly/), I decided to read up and learn about it to enhance my upcoming sightseeing experience (though I later failed to secure tickets to Independence Hall, which is another sad story).
 

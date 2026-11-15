@@ -5,7 +5,7 @@ tags: ["GEB", "Reading Notes"]
 images: []
 ---
 
-(Translated from the Chinese version with the help of ChatGPT.)
+(Translated from the Chinese version with the help of LLM.)
 
 A good part of my evenings last week was spent exploring and learning about [classical music](../concert/). But my reading hasn't stopped, and I'm continuing to write notes to catch up. I also discovered the [GEB Fandom](https://godel-escher-bach.fandom.com/wiki/G%C3%B6del,_Escher,_Bach_Wiki) during this time. I've updated the Chinese versions of my first two posts with some new insights I picked up there (the English versions will have to wait). It's quite satisfying to realize that I can independently get most of the jokes and references.
 

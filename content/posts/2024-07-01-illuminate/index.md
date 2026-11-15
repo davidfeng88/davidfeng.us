@@ -4,7 +4,7 @@ date: 2024-07-01T22:12:02-04:00
 tags: ['Google', 'AI', 'Illuminate']
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 (It's been a long time since I've dealt with academic materials. This article attempts to revisit the academic paper format.)
 

@@ -4,7 +4,7 @@ date: 2026-07-19T21:20:40-04:00
 tags: ["Random Thoughts"]
 ---
 
-(Translated from the Chinese version with the help of ChatGPT.)
+(Translated from the Chinese version with the help of LLM.)
 
 I recently learned a new Chinese idiom from one of Li Tianhao's videos: **曲突徙薪** (*qū tū xǐ xīn*).
 

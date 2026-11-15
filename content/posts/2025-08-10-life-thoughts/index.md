@@ -4,7 +4,7 @@ date: 2025-08-10T14:43:11-04:00
 tags: ["Random Thoughts"]
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 Today I saw laike9m recommending the [latest episode](https://pythonhunter.org/episodes/ep56) of "The Python Hunter," featuring a conversation with Hawstein, the author of [Five Years of an Indie Hacker](https://hawstein.com/2023/07/12/five-years-of-an-indie-hacker/). After reading the [transcript](https://podwise.ai/dashboard/episodes/4911332) and some related materials, I felt inspired to share some thoughts. This is a bit scattered and unsystematic, so please bear with me.
 

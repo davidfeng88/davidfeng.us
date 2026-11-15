@@ -5,6 +5,8 @@ tags: []
 images: []
 ---
 
+(Translated from the Chinese version with the help of LLM.)
+
 I'm easily fascinated by new things, which means I tend to abandon projects halfway through and rarely get beyond a superficial understanding of anything. No wonder I've made it this far in life without accomplishing much!
 
 ## Priorities

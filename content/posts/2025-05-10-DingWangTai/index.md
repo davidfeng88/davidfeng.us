@@ -4,7 +4,7 @@ date: 2025-05-10T22:05:30-04:00
 tags: ['Changsha', 'Hunan', 'Chinese history']
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 Speaking of Dingwang Tower in Changsha, I only knew it as a place to buy books, but today my mother told me a story that she tells every year to students who've just moved to Changsha for their studies:
 

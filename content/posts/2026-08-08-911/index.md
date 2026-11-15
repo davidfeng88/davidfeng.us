@@ -5,7 +5,7 @@ tags: ["9/11", "NY", "NYC", "Travel"]
 images: ["view-from-jersey-city.jpg"]
 ---
 
-(Translated from the Chinese version with the help of ChatGPT.)
+(Translated from the Chinese version with the help of LLM.)
 
 I visited the museum toward the end of last year. The experience hit me so hard that I kept putting off writing about it. Today I went through the photos again, along with some of the articles and videos I had seen before, and finally put some thoughts together. It is still a very heavy feeling.
 

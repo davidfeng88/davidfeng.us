@@ -5,7 +5,7 @@ tags: ["Classical music", "Bach"]
 images: ["bach.jpg"]
 ---
 
-(Translated from the Chinese version with the help of ChatGPT.)
+(Translated from the Chinese version with the help of LLM.)
 
 Johann Sebastian Bach (1685–1750) was the great synthesizer of Baroque music and a perennial candidate for the GOAT of classical composers. His works span an enormous range of genres and are remarkable both in quantity and quality.
 

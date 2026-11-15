@@ -4,7 +4,7 @@ date: 2023-01-28T13:52:58-05:00
 tags: ['travel', 'NY', 'NYC']
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 In the second half of last year, I visited several nearby ruins. I had planned to write about these trips, but due to my chronic procrastination, I kept putting it off until I almost gave up. Recently, I discovered a treasure of a content creator, [An Zhengming](https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w). An article on [Zhihu](https://zhuanlan.zhihu.com/p/355091185) describes her as belonging to the "ruins painting school." She wrote [Non-Mainstream Art History](https://yd.qq.com/web/bookDetail/0c132f10813ab6e99g0114bc), which includes several sections specifically about ruins. So, I thought I'd strike while the iron is hot and finally write about my visits to these ruins. Although the stories behind these ruins may not compare to those of ancient Greece or Rome, they have their own unique charm.
 

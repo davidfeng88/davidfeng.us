@@ -5,7 +5,7 @@ tags: ["Classical Music", "Bach"]
 images: ["visitation.jpg"]
 ---
 
-(Translated from the Chinese version with the help of ChatGPT.)
+(Translated from the Chinese version with the help of LLM.)
 
 Following up on [the previous post](../2026-03-12-bach-1/), this time we begin with the first category of Bach's works: sacred cantatas ([YouTube Music playlist](https://music.youtube.com/playlist?list=PLXDE-2uz_FRFnAecVau9o71pAAW5dboJW&si=cTWUo4JXzvnAvdWd)).
 

@@ -5,7 +5,7 @@ images: ["the-long-gray-line.jpg"]
 tags: ["West Point", "NY", "Travel", "History", "American History"]
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 Last weekend, I took a half-day tour of the renowned West Point Military Academy. Combined with the short film and exhibitions at the visitor center, plus the tour guide's explanations, I'll summarize and record what I learned. Following chronological order, this can be divided into three parts: the Revolutionary War period, the academy's glorious history after its establishment, and an introduction to modern West Point education.
 

@@ -4,7 +4,7 @@ date: 2025-04-06T22:02:03-04:00
 tags: ['nature', 'travel', 'raven', 'NY']
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 Today is Sunday, and with nothing particular to do in the afternoon, we visited the Greenburgh Nature Center to casually observe the flora and fauna. I've been here several times before, but surprisingly, I learned something new this time that I'd like to record.
 

@@ -5,7 +5,7 @@ tags: ["Du Fu", "Changsha"]
 images: []
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 I came across the AI-generated song *The Seasoned One* through a [video by Daodao Feng](https://www.youtube.com/watch?v=FfjygjIVKYE). (I also played around with Suno when it first came out, but eventually lost interest and left it at that.) I tracked down the original song and listened to it. I agree with Daodao's conclusion: the musical quality is mediocre, but its value goes far beyond the music itself.
 

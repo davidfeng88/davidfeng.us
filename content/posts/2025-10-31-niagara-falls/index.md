@@ -5,7 +5,7 @@ tags: ["Niagara Falls", "NY", "Travel"]
 images: ["falls.jpg"]
 ---
 
-(Translated from the Chinese version with the help of ChatGPT.)
+(Translated from the Chinese version with the help of LLM.)
 
 At last, we arrived at the final stop of this trip — Niagara Falls.
 

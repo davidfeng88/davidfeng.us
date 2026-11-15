@@ -5,7 +5,7 @@ tags: ["GEB", "Reading Notes"]
 images: ["cover-en.jpg"]
 ---
 
-(Translated from the Chinese version with the help of ChatGPT.)
+(Translated from the Chinese version with the help of LLM.)
 
 ## How It All Began
 

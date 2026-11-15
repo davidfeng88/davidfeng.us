@@ -4,7 +4,7 @@ date: 2026-09-10T22:05:19-04:00
 tags: ["MOOC", "Random Thoughts"]
 ---
 
-(Translated from the Chinese version with the help of ChatGPT.)
+(Translated from the Chinese version with the help of LLM.)
 
 A while ago, while listening to [Bach](../2026-03-12-bach-1/), I decided I wanted to systematically fill in some gaps in my knowledge of music—music theory, history, and so on. I remembered that I had saved [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) on Coursera years ago. It was quite good, and I had worked my way through part of it on and off.
 

@@ -5,7 +5,7 @@ images: ['how-to-read-a-book.jpg']
 tags: ['Weekly', 'Career', 'Reading', 'Privacy']
 ---
 
-(Translated from the Chinese version with the help of Claude.)
+(Translated from the Chinese version with the help of LLM.)
 
 ## Starting a New Job
 

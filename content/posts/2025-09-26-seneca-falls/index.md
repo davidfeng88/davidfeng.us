@@ -5,7 +5,7 @@ tags: ["Seneca Falls", "Women’s Rights National Historical Park", "NY", "Trave
 images: ["first-wave.jpg"]
 ---
 
-(Translated from the Chinese version with the help of ChatGPT.)
+(Translated from the Chinese version with the help of LLM.)
 
 Other posts in this series:
 
